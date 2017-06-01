@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-types",
+  "name": "@inspirationlabs/mongoose-types",
   "description": "More types for mongoose",
   "version": "1.0.3",
   "author": "Brian Noguchi",
